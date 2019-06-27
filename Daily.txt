@@ -1,0 +1,70 @@
+USA GDC
+
+vm build server
+AZ97AS00U01VH01.as.honeywell.com
+
+temp steven jmp server
+10.6.15.46
+
+windows jump
+10.5.15.180
+aeroservices\H360720
+4mADr5bG
+
+az97as00u01vh01.as.honeywell.com 
+aeroservices\H360720x
+UsvYfG6B
+
+linux jump
+10.5.15.190
+10.6.15.55
+H360720
+4mADr5bG
+
+goal:
+https://hpd.honeywell.com
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDNnAsDOiOUZsWiKJDgXoEyJ20oYyoIoi/9HJhyjkI/hcQciKFvXHE9PrO8rEv8mF2p3ayNpSUdL15eBUQXKgPM3iqG9BJ7A7sNGARCc8cFFRRx6EKE43MlyzMcy8o8We+VamEnv2qA2ljj+zYlHsYOLVifKA2kDAuorF0UW3O0rUHrfmy7fZX8B3ctKH1E17ZrO84qoNPu8Wm0/Dy5k7STJnaCHV8Q+k6JHm3fZXqBUR55ww0Ic0kniFI+SXib3SHhoQtG3r89F1RrmSeFIJEh7vsm82MsP/ahlwtNPtwfrZa/tPXhJgzS7qBCQd974Gxhtb07FHD3ns1ke0We/ujh h360720@uswpmnusts00.as.honeywell.com
+
+
+-----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAzZwLAzojlGbFoiiQ4F6BMidtKGMqCKIv/RyYco5CP4XEHIih
+b1xxPT6zvKxL/Jhdqd2sjaUlHS9eXgVEFyoDzN4qhvQSewO7DRgEQnPHBRUUcehC
+hONzJcszHMvKPFnvlWphJ79qgNpY4/s2JR7GDi1YnygNpAwLqKxdFFtztK1B635s
+u32V/Ad3LSh9RNe2azvOKqDT7vFptPw8uZO0kyZ2gh1fEPpOiR5t32V6gVEeecMN
+CHNJJ4hSPkl4m90h4aELRt6/PRdUa5knhSCRIe77JvNjLD/2oZcLTT7cH62Wv7T1
+4SYM0u6gQkHfe+BsYbW9OxRw957NZHtFnv7o4QIDAQABAoIBAEAlNJJXKw57WaET
+gs9c7HWXM0jsVwrGfq46o5zpoOVseBhmz+aMMo/m5fAw2Kv/ZQk/rTurj/6g7pHq
+lqmbZAAgN6hOsQ1Lxql5GqsYr7h4MR6wVUBcLWpXEKUlNvzJGiPFQnZCE5oLhLvr
+faLrDOMTZpiQyGCrmV+QFqHpPhnZfExpzyMVxUis7lOcd2mkfaG5HSloyWOVVczm
+UNM1dPWZAFIxvzetkFeAJLuaVpH9NKx+8CrznjQMo30LprkP1avPCu7bza3FmZdz
+XjaNBHFrbMjGlkyZUMtBm30Cq8LLiddmyQFSAdKJI/iYm5uRWFwtxFXqCIIPFvFl
+vovaD1kCgYEA9HSYq8n/zEP39JszGvQzja86ikV3eT0jeOGljea9QNhB4+ITo7kc
+9E0q2aTMhC61DUsvjdzRPkPklkcHBhi2eL6EZIibjxJ+1nyDwjNPKBrD5ISMFYqA
+H1unwiKP8keIZ+N8gCkO/+dT4OaJNuR+AtoPngrF8Oa0RpkflprhbRMCgYEA11HP
+Pzd/CRGOdVD9oouXHx2h+JBFcOBypZkD7IgvbDRR58BkEGqpPZ+V+H+fq9HmFOq3
+5h4jZJE3nErPG9Whh8+wgzXgd7DAndLf76zg+UMRxNIw0wnaHfvBrP/vb5kZbjqL
+V6SR6kfyHHdVveZHSwkDGEGUqVVcGkISVmyOVLsCgYEArM8T8jUtIEBYM9HXEdHZ
+8+oQrximec1vmw+g0ixwUzvNcIQsMAw3XLiEdzEZ5sOB9/DToCyeuq6SFG4HmBa2
+P6smuk8b8Ms5YPTKy+krpwUswAm3Ya70HbbUY9e8/J/23MIjDBJ6aQsl75HpJCXo
+sqlmaungvgjJHjM28mdwvoMCgYB28MAU4akQ71vMPmL9KTLfg1T3o2pYggOSqkXa
+oRfhI72i0Un1L5Yxbjg/vvAKz7XTFB1lxnwyj20yrrhdXdMO3JFayaYnN8IO7G+7
+S7oytvPXz2wdB7IvIeTIldBDy0Sa+UgDr+rSic+aHemFLvFu55mICqH+MCLidmD+
+0JSHBQKBgAaF0dQbl5iwohyGX7GwcqM9qlI71O5EPIhIRHBHbH0oVv5pim6c17FD
+c5mcB2NijtkG64q2XOViHraU/QI+ofzmcJV9QdxSjnkurYXSpCyCnGoZVFxqSEzn
+Fy8hHCGz9Zba4jdUtIfOW9ltChNBy/S7CIIjnGo/KZPSSMl4XrWz
+-----END RSA PRIVATE KEY-----
+
+
+https://eranier.webnode.com.br/subpaginas/xen-convert
+
+access
+\\az97powsfs01.as.honeywell.com\SCE-Team-Share\AeroDB
+
+H360720x
+Zaq12wsx
+
+ticket
+https://tickets.as.honeywell.com
+https://bestpractical.com/request-tracker
+
